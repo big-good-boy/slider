@@ -40,7 +40,3 @@ function next(el) {
 }
 
 render(0);
-
-// console.log(document.querySelector('div').clientWidth);
-console.log(document.getElementById('slider').parentNode.clientWidth);
-console.log(800 / 1.3333);
